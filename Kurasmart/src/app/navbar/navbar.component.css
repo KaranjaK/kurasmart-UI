@@ -1,0 +1,23 @@
+*{
+    overflow-x: hidden;
+    font-family: Roboto;
+    color: #37447E;
+    font-weight: 700;
+}
+.navbar{
+    margin-left: 2rem;
+}
+.title{
+    margin-left: 10rem;
+    font-weight: 900;
+    font-size: 2rem;
+}
+.nav-link{
+    margin-left: 1rem;
+}
+.get{
+    margin-left: 15rem;
+    background-color: #37447E;
+    color: whitesmoke;
+    width: 8rem;
+}

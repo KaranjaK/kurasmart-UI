@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { faTriangleCircleSquare,faProjectDiagram,faNetworkWired,faFaceLaughWink,faDropletSlash,faStarAndCrescent } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-body',
@@ -7,6 +8,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BodyComponent implements OnInit {
 
+  faTriangle = faTriangleCircleSquare
+  faProjectDiagram = faProjectDiagram
+  faNetworkWired = faNetworkWired
+  faFaceLaughWink = faFaceLaughWink
+  faDropletSlash = faDropletSlash
+  faStarAndCrescent = faStarAndCrescent
   constructor() { }
 
   ngOnInit(): void {
