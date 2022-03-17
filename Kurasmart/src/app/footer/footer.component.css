@@ -1,0 +1,13 @@
+*{
+    overflow-x: hidden;
+    font-family: Roboto;
+    background-color: #37447E;
+    color: whitesmoke;
+    font-weight: 700;
+    margin-top: 1rem;
+}
+.footertitle{
+    margin-left: 10rem;
+    font-weight: 900;
+    font-size: 2rem;
+}
