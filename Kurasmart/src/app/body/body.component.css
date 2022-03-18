@@ -3,19 +3,22 @@
     font-family: Roboto;
     font-weight: 700;
 }
+.bodyl{
+    margin-top: 4rem;
+}
 .intro{
     margin-left: 5rem;
     margin-top: 5rem;
     display: flex;
     flex-direction: column;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 .para{
     color: #505F98;
     margin-left: 5rem;
     display: flex;
     flex-direction: column;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 .buttons{
     margin-left: 5rem;
@@ -37,6 +40,7 @@
 }
 .we{
     margin-left: 5rem;
+    margin-top: 4rem;
 }
 .wetitle{
     text-align: center;
@@ -73,4 +77,29 @@
     margin-top: 2rem;
     font-size: 2rem;
     color: #37447E;
+}
+.system{
+    margin-left: 5rem;
+    margin-top: 4rem;
+}
+.system h1{
+    text-align: center;
+    margin-top: 2rem;
+    color: #111B47;
+}
+.systemrow{
+     margin-left: .5rem;
+}
+.systemtext{
+    margin-top: 10rem;
+}
+.systempara{
+    display: flex;
+    flex-direction: column;
+    color: #505F98;
+}
+.systempic{
+    width: 40rem;
+    height: auto;
+    overflow-y: hidden;
 }
